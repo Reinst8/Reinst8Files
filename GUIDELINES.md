@@ -11,7 +11,7 @@ Usage Guidelines
 
 **Please don't**:
 
-* Use the provided assets in a way that implies endorsement or affiliation.
+* Use the provided assets in a way that implies endorsement or affiliation without the express, written consent of two or more Reinst8 core members.
 * Modify the assets (excluding resizing while maintaining aspect ratio) in any way.
   * This includes (but is not limited to) cropping, recolouring, stretching, superimposing, rotating.
 * Use the assets in a context completely unrelated to the goals of the movement.
